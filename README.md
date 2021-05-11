@@ -1,14 +1,6 @@
 # SAKI Homework
 
-Saki course homework submission by idm: im45unaj
-
-## Dependencies
-
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install the following dependencies:
-
-```bash
-pip install TODO
-```
+Saki course homework submission by Dennis Possart
 
 
 
